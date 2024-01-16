@@ -62,4 +62,3 @@ The following table showcases the performance metrics of the various models we t
 
 ## Acknowledgements
 - Dataset sourced from Kaggle
-
