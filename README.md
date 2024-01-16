@@ -42,7 +42,7 @@ Our dataset analysis includes a breakdown of the types of rooms available in Air
 ## Outlier Detection Analysis
 An important part of our EDA was identifying outliers within the dataset. The box plot visualizations below illustrate the outliers across different features:
 
-![Outlier Identification Box Plot](/images/outlier_identification.png)
+![Outlier Identification Box Plot](https://raw.githubusercontent.com/Aamir-Hullur/AirBNB-Price-Predictor/main/Boxplot.png)
 *Figure: Box plots for outlier detection in various features of the NYC Airbnb dataset, excluding 'host_id' and 'id'.*
 
 ## Model Performance Comparison
